@@ -1,0 +1,22 @@
+# LAB 4 - Required Python Packages
+# Neural Networks and Deep Learning Lab
+# IIT Dharwad
+
+# Core numerical computing
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Machine learning utilities
+scikit-learn>=1.0.0
+
+# Deep learning framework
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Optional: For better plots
+seaborn>=0.11.0
+
+# Installation instructions:
+# pip install -r requirements.txt
